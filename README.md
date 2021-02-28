@@ -1,1 +1,4 @@
-# Django_TodoApp
+#### Todo App
+###### built In :
+- python 
+- Django
